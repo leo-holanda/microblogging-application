@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Ruby on Rails Tutorial sample application
 
 This is the sample application for
@@ -40,7 +39,3 @@ $ rails server
 
 For more information, see the
 [*Ruby on Rails Tutorial* book](https://www.railstutorial.org/book).
-=======
-# microblogging-application
-Twitter-like microblogging application for Odin Project/Learn Enough
->>>>>>> a16cc80d612c0d09f18f13f4d3a05606ea0df7b6
